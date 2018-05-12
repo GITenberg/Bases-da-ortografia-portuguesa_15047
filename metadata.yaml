@@ -1,0 +1,37 @@
+_repo: Bases-da-ortografia-portuguesa_15047
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Abreu, Guilherme Augusto de Vasconcelos
+    birthdate: 1842
+    deathdate: 1907
+    gutenberg_agent_id: '5817'
+    url: http://www.gutenberg.org/2009/agents/5817
+    wikipedia: http://pt.wikipedia.org/wiki/Guilherme_de_Vasconcelos_Abreu
+  - agent_name: Viana, Aniceto dos Reis Gonçalves
+    aliases:
+    - Goncalves Viana, A. R. (Aniceto Reis)
+    - Gonçalves Viana, A. R. (Aniceto Reis)
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '5816'
+    url: http://www.gutenberg.org/2009/agents/5816
+    wikipedia: http://pt.wikipedia.org/wiki/Aniceto_dos_Reis_Gonçalves_Viana
+description: ''
+gutenberg_bookshelf: PT Língua Portuguesa
+gutenberg_issued: '2005-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15047'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese language -- Orthography and spelling'
+- !lcc 'PC'
+title: Bases da ortografia portuguesa
+url: http://www.gutenberg.org/ebooks/15047
